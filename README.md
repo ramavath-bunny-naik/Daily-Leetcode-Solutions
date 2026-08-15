@@ -36,4 +36,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
