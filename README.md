@@ -46,6 +46,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
