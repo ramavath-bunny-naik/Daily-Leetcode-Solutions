@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
