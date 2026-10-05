@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
