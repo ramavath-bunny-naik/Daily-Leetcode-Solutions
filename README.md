@@ -75,6 +75,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ramavath-bunny-naik/Daily-Leetcode-Solutions/tree/master/0595-big-countries) |
